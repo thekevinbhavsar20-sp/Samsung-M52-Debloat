@@ -70,10 +70,6 @@ Runs everything in Raw, then removes the extra Samsung config packages (Configur
 
 &#x20;
 
-Note: both setup wizard packages (Android Setup and Samsung Setup Wizard) are always removed last, because they are known to trigger a reboot mid-run.
-
-&#x20;
-
 &#x20;
 
 RECOVERY
